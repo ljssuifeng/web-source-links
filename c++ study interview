@@ -1,2 +1,12 @@
 https://github.com/huihut/interview#%E7%AE%97%E6%B3%95    c++ interview  一份内容丰富的资源！！非常不错
-https://en.cppreference.com/w/cpp    c++reference
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md  一份介绍c++语言书写规范的资源，可参考
+https://github.com/fffaraz/awesome-cpp   c++ awesome  全面的c++资料
+https://github.com/jobbole/awesome-cpp-cn   包罗万象 中文版
+https://github.com/wuye9036/CppTemplateTutorial   模板教程 
+https://github.com/AllAlgorithms/cpp  使用cpp实现所有算法
+https://github.com/xtaci/algorithms    算法c++实现, 一个头文件一个算法，一个demo
+https://github.com/onlytailei/CppRobotics  无人驾驶定位规划控制算法
+https://github.com/abseil/abseil-cpp       与标准库旗鼓相当的c++库，来自于google
+https://github.com/facebook/folly           facebook c++ lib
+https://github.com/mandliya/algorithms_and_data_structures    算法与数据结构
+https://github.com/microsoft/STL   microsoft stl library
