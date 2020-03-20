@@ -1,2 +1,7 @@
 http://www.treelib.com/book-detail-id-47-aid-2896.html    笨办法学习vimscript
 https://github.com/fatih/vim-go-tutorial                   vim colorscheme
+https://github.com/junegunn/vim-plug                   vim-plug
+https://github.com/mhinz/vim-startify                      vim开屏插件
+https://github.com/preservim/nerdtree		文件目录树
+https://github.com/python-mode/python-mode   python IDE for python 
+https://vimawesome.com/                                   vim 插件云集网页
