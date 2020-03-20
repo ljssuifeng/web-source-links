@@ -1,0 +1,1 @@
+https://docs.huihoo.com/gnu/linux/gmake.html     GNU make 指南
