@@ -1,0 +1,2 @@
+http://www.treelib.com/book-detail-id-47-aid-2896.html    笨办法学习vimscript
+https://github.com/fatih/vim-go-tutorial                   vim colorscheme
