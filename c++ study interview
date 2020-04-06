@@ -22,4 +22,7 @@ https://github.com/wuye9036/CppTemplateTutorial          c++ Template 进阶指�
 https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019   c++并发多线程编程
 https://github.com/stephenix/cpp_grammer
 https://github.com/gperftools/gperftools         快速内存malloc方案，尤其适用于多线程
-
+https://github.com/nlohmann/json  json  for modern c++
+https://github.com/nothings/single_file_libs  c/c++ 单文件依赖库list  
+https://www.learnopencv.com/      opencv c++/python /pytorch
+https://github.com/catchorg/Catch2   A modern, C++-native, header-only, test framework for unit-tests
