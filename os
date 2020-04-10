@@ -2,3 +2,5 @@ https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System     使用c
 https://github.com/alebcay/awesome-shell
 https://github.com/herrbischoff/awesome-command-line-apps
 https://github.com/Shougo/vimshell.vim
+
+https://github.com/dylanaraps/pure-bash-bible     shell 编程圣经
