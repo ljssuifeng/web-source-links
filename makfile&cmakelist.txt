@@ -1,1 +1,8 @@
 https://docs.huihoo.com/gnu/linux/gmake.html     GNU make 指南
+
+https://cmake.org/cmake/help/latest/manual/cmake.1.html - Be aware that there are --warn command line options for CMake that can catch some issues.
+https://github.com/Akagi201/learning-cmake
+https://codingnest.com/basic-cmake/
+https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1 - Effective CMake online book
+https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
+https://cliutils.gitlab.io/modern-cmake/ - An Introduction to Modern CMake
