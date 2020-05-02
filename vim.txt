@@ -12,3 +12,5 @@ https://github.com/yangyangwithgnu/use_vim_as_ide   打造c++ vim 使用像IDE�
 https://github.com/SpaceVim/SpaceVim             vim 配置参考方案
 https://github.com/PegasusWang/vim-config        mooc 课程讲师vim配置参考方案
 
+https://github.com/brookhong/cscope.vim          函数定义查找跳转等
+
