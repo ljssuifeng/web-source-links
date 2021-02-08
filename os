@@ -22,5 +22,9 @@ https://github.com/kamranahmedse/developer-roadmap
 
 http://rpg.ifi.uzh.ch/docs/glog.html   glog document
 
+https://github.com/agarrharr/awesome-cli-apps
+https://github.com/jorgebucaran/awsm.fish
+https://github.com/unixorn/awesome-zsh-plugins
+
 
 
