@@ -8,4 +8,5 @@ https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
 https://cliutils.gitlab.io/modern-cmake/ - An Introduction to Modern CMake
 
 https://app.gitbook.com/@chenxiaowei/s/cmake-cookbook/
+https://github.com/ttroy50/cmake-examples
 	
