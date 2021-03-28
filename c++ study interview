@@ -4,6 +4,10 @@ https://github.com/fffaraz/awesome-cpp   c++ awesome  全面的c++资料
 https://github.com/jobbole/awesome-cpp-cn   包罗万象 中文版
 https://github.com/wuye9036/CppTemplateTutorial   模板教程 
 https://github.com/AllAlgorithms/cpp  使用cpp实现所有算法
+https://github.com/TheAlgorithms/C
+https://github.com/TheAlgorithms/C-Plus-Plus   The repository is a collection of open-source implementation of a variety 
+of algorithms implemented in C++  The algorithms span a variety of topics from computer science, mathematics and statistics, 
+data science, machine learning, engineering, etc..
 https://github.com/xtaci/algorithms    算法c++实现, 一个头文件一个算法，一个demo
 https://github.com/onlytailei/CppRobotics  无人驾驶定位规划控制算法
 https://github.com/abseil/abseil-cpp       与标准库旗鼓相当的c++库，来自于google
@@ -28,7 +32,7 @@ https://www.learnopencv.com/      opencv c++/python /pytorch
 https://github.com/catchorg/Catch2   A modern, C++-native, header-only, test framework for unit-tests
 
 https://github.com/wuye9036/CppTemplateTutorial  c++template 进阶指南
-https://github.com/AnthonyCalandra/modern-cpp-features   
+https://github.com/AnthonyCalandra/modern-cpp-features   // c++ 新特性11/14/17/20 文档  
 https://github.com/changkun/modern-cpp-tutorial
 https://github.com/rigtorp/awesome-modern-cpp
 https://github.com/socketio/socket.io-client-cpp
@@ -82,5 +86,10 @@ https://github.com/NVIDIA/libcudacxx  cuda c++ 标准库实现
 
 https://github.com/donnemartin/interactive-coding-challenges   interview QAC
 
+https://github.com/gabime/spdlog   Very fast, header-only/compiled, C++ logging library
 
+https://github.com/tuvtran/project-based-learning  A list of programming tutorials in which learners build an application from scratch.
 
+https://github.com/azl397985856/leetcode  
+
+https://github.com/MattPD/cpplinks   资源的连接
